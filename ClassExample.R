@@ -3,7 +3,7 @@
 print("Hello World")
 
 
-print("A new line")
+print("A new thing")
 
 
-print("A third line")
+print("A third thing")
